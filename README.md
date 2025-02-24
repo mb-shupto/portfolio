@@ -9,7 +9,7 @@ Hello! I'm **Md. Masum-Ul-Bari Supto**, currently majoring in **Computer Science
 ### Highlights:
 - Practicing **Java** for "Object-Oriented Programming".
 - Actively working on **web development projects**.
-- Exploring **Linux** and enhancing my proficiency in **Python**.
+- Exploring **Linux** and enhancing proficiency in **Python**.
 - Experimenting with **digital audio workstations**.
 
 This repository serves as my journal, showcasing my progress and journey in tech.
