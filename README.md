@@ -24,7 +24,7 @@ An ongoing project focusing on a platform for student room rentals.
 ### 2. [Pizza Shop Project](https://github.com/mb-shupto/pizzaOrder.git)
 Ongoing Full-stack web application.
 
-### 3. [Car Manufacturing Application] (https://github.com/mb-shupto/carManufacturing.git)
+### 3. [Car Manufacturing Application](https://github.com/mb-shupto/carManufacturing.git)
 Complete java application based and developed on javafx.
 
 ### 4. [Mental Health Support System](https://github.com/mb-shupto/Mental-Health-Support-System-frontUI-.git)
