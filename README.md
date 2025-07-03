@@ -7,7 +7,6 @@ Welcome to my portfolio repository! This repository showcases my academic journe
 Hello! I'm **Md. Masum-Ul-Bari Supto**, currently majoring in **Computer Science & Engineering** at **Independent University, Bangladesh (IUB)**. I'm passionate about learning and experimenting with new technologies. 
 
 ### Highlights:
-- Practicing **Java** for "Object-Oriented Programming".
 - Actively working on **web development projects**.
 - Exploring **Linux** and enhancing proficiency in **Python**.
 - Experimenting with **digital audio workstations**.
@@ -18,16 +17,18 @@ This repository serves as my journal, showcasing my progress and journey in tech
 
 ## Projects
 
-### 1. [Mental Health Support System](https://github.com/mb-shupto/Mental-Health-Support-System-frontUI-.git)
-Frontend project featuring demo graphs and connected pages (Unfinished).
 
-### 2. [Student Rental System](https://github.com/mb-shupto/studentRentalService.git)
+### 1. [Verified Student Rental System](https://github.com/mb-shupto/verifiedStudentRentalSystem.git)
 An ongoing project focusing on a platform for student room rentals.
 
-### 3. [Other Projects]
-Stay tuned for updates as I add more exciting work!
+### 2. [Pizza Shop Project](https://github.com/mb-shupto/pizzaOrder.git)
+Ongoing Full-stack web application.
 
----
+### 3. [Car Manufacturing Application] (https://github.com/mb-shupto/carManufacturing.git)
+Complete java application based and developed on javafx.
+
+### 4. [Mental Health Support System](https://github.com/mb-shupto/Mental-Health-Support-System-frontUI-.git)
+Frontend project featuring demo graphs and connected pages (Unfinished).
 
 ## Skills
 
