@@ -8,7 +8,7 @@ Hello! I'm **Md. Masum-Ul-Bari Supto**, currently majoring in **Computer Science
 
 ### Highlights:
 - Actively working on **web development projects**.
-- Exploring **Linux** and enhancing proficiency in **Python**.
+- Exploring **AI** , **Linux** and enhancing proficiency in **Python**.
 - Experimenting with **digital audio workstations**.
 
 This repository serves as my journal, showcasing my progress and journey in tech.
