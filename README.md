@@ -1,6 +1,6 @@
 # Md. Masum-Ul-Bari Supto - Portfolio
 
-Welcome to my portfolio repository! This repository showcases my academic journey, personal projects, and skills as a web developer. Feel free to explore and connect with me through the provided contact links.
+Welcome to my portfolio repository! This repository showcases my academic journey, personal projects, and web development skills. Feel free to explore and connect with me through the provided contact links.
 
 ## About Me
 
@@ -18,21 +18,21 @@ This repository serves as my journal, showcasing my progress and journey in tech
 ## Projects
 
 
-### 1. [Verified Student Rental System](https://github.com/mb-shupto/verifiedStudentRentalSystem.git)
-An ongoing project focusing on a platform for student room rentals.
+### 1. [Event Management System](https://github.com/mb-shupto/event-management-system.git)
+Progressive project based on an event management system. 
 
 ### 2. [Pizza Shop Project](https://github.com/mb-shupto/pizzaOrder.git)
-Ongoing Full-stack web application.
+Ongoing Full-stack web application that will soon be turned into production level.
 
 ### 3. [Car Manufacturing Application](https://github.com/mb-shupto/carManufacturing.git)
-Complete java application based and developed on javafx.
+Complete Java application based on JavaFX.
 
-### 4. [Mental Health Support System](https://github.com/mb-shupto/Mental-Health-Support-System-frontUI-.git)
-Frontend project featuring demo graphs and connected pages (Unfinished).
+### 4. [Inventory Application](https://github.com/mb-shupto/final-project-section-1-Group-7.git)An 
+Android application based on an inventory system with flutter-dart.
 
 ## Skills
 
-- **Languages**: Python, HTML, CSS, JavaScript
+- **Languages**: Python, JavaScript, C++, HTML, CSS etc. 
 - **Technologies**: Web Development, Digital Audio Workstations
 - Open to learning new tools and technologies to expand my skill set.
 
